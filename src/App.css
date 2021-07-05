@@ -21,9 +21,30 @@
 }
 
 .ant-layout-header{
-  height: 120px !important; 
+  height: 120px !important;
 }
 
 .title {
   margin-left: 50px;
+}
+
+.ant-card {
+  color: #fff !important;
+  background-color: #001529 !important;
+}
+
+.ant-card-bordered {
+    border: 0px;
+}
+
+.ant-progress-text {
+  color : #fff !important;
+}
+
+.main-container {
+  box-shadow: 5px 10px #888888;
+}
+
+.progress-container {
+  padding: 10px;
 }
